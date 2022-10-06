@@ -1,2 +1,3 @@
-# Ignore fits files
+# Ignore fits files and any results folders
 *.fits
+results*/
