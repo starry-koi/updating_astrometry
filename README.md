@@ -5,7 +5,7 @@ This code functions as a first pass to correcting astrometry on fits images. It 
 
 The corrected images should still be viewed and compared manually with the reference image (e.g. using an RGN frame in DS9). While this code can make the astrometry-correcting process significantly less tedious, the results are not always perfect, especially if there is a large difference in pixel sizes between reference and broken images. Some manual fine-tuning might still be necessary.
 
-The rest of the ReadMe will be rather brief; for more depth, see `outline.pdf`.
+For more depth than the ReadMe, see `outline.pdf`.
 
 
 Setup
